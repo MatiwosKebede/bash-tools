@@ -2,6 +2,9 @@
 
 This is a simple Bash script that simulates a **loading animation** using any symbol entered by the user. It mimics progress bars seen during app launches or downloads.
 
+We can use this for CLI game starting 
+downloading file style or install
+upload and etc
 ## 📦 Features
 
 - Custom symbol input (e.g. `#`, `=`, `|`, etc.)
